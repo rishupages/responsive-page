@@ -1,0 +1,1600 @@
+.nft_info {
+  /* Layout Properties */
+  margin-top: 69px;
+  margin-left: 154px;
+  width: 1132px;
+  height: 500px;
+  /* UI Properties */
+  background: #f7f8f7 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+}
+.nft_info .header_line {
+  padding-top: 20px;
+}
+
+.nft_info .header_line .nft_heading_logo {
+  float: left;
+  /* Layout Properties */
+  padding-top: 50px;
+  margin-left: 398px;
+  width: 48px;
+  height: 48px;
+  /* UI Properties */
+  background: transparent url("../img/profit.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.nft_info .header_line .nft_heading {
+  float: left;
+  margin-top: 15px;
+  margin-left: 38px;
+  width: 240px;
+  height: 42px;
+
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.nft_info .nft_definition {
+  /* float: left; */
+  margin-top: 81.56px;
+  display: inline-flex;
+  grid-template-rows: repeat(2, 50px);
+}
+
+.nft_info .nft_content {
+  /* padding-top: 151.58px; */
+  padding-left: 31px;
+  width: 492px;
+  height: 214px;
+}
+
+.nft_info .nft_content p {
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #090909;
+  opacity: 1;
+}
+
+.nft_info .nft_rating {
+  /* padding-top: 300px; */
+  margin-left: 134px;
+  width: 374px;
+  height: 130px;
+
+  /* UI Properties */
+  border: 1px solid #fcd02c;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_info .nft_rating .rating_a {
+  width: 158px;
+  height: 130px;
+
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.nft_info .nft_rating .rating_a .content {
+  padding-top: 60px;
+  padding-left: 30px;
+  width: 106px;
+  height: 52px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 43px/27px Gilroy ☞;
+  letter-spacing: 0.21px;
+  color: #150734;
+  opacity: 1;
+}
+
+.nft_info .nft_rating .rating_b {
+  /* display: inline-flex; */
+}
+
+.nft_info .nft_rating .rating_b .rating_b1 {
+  margin-left: 13px;
+  margin-top: 44px;
+  width: 123px;
+  height: 49px;
+  /* UI Properties */
+  background: transparent url("../img/pinpng.com-yelp-icon-png-61119.png") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+
+.nft_info .nft_rating .rating_b .rating_b2 {
+  /* Layout Properties */
+  margin-left: 13px;
+  margin-top: 8px;
+  width: 160px;
+  height: 25px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13223.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.nft_info .next_prev {
+  display: inline-flex;
+}
+
+.nft_info .next_prev .prev {
+  /* Layout Properties */
+  top: 1607px;
+  margin-left: 774px;
+  width: 60px;
+  height: 60px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13239.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_info .next_prev .prev .icon {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 14px;
+  height: 24px;
+
+  background: transparent url("../img/Icon awesome-chevron-left.png") 0% 0%
+    no-repeat padding-box;
+  opacity: 0.58;
+}
+
+.nft_info .next_prev .next {
+  /* Layout Properties */
+  top: 1607px;
+  margin-left: 21px;
+  width: 60px;
+  height: 60px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13240.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_info .next_prev .next .icon {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 14px;
+  height: 24px;
+
+  /* UI Properties */
+  background: transparent url("../img/Icon awesome-chevron-ri8.png") 0% 0%
+    no-repeat padding-box;
+  opacity: 0.58;
+}
+/************************ propduct user ********************************************/
+.product_user {
+  /* Layout Properties */
+  margin-top: 51px;
+  left: 0px;
+  width: 1440px;
+  height: 332px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13564.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.product_user .prod1 .heading {
+  display: inline-flex;
+}
+
+.product_user .prod1 .heading .icon {
+  /* Layout Properties */
+  margin-top: 103px;
+  margin-left: 125px;
+  width: 62px;
+  height: 62px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13565.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.product_user .prod1 .heading .user {
+  margin-top: 103px;
+  margin-left: 12px;
+  width: 177px;
+  height: 71px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 58px/62px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod1 .p1 {
+  margin-top: 22px;
+  margin-left: 124px;
+  width: 48px;
+  height: 30px;
+
+  text-align: center;
+  font: normal normal 600 25px/34px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+.product_user .prod1 .p2 {
+  margin-top: 5px;
+  margin-left: 124px;
+  width: 286px;
+  height: 25px;
+  font: normal normal medium 21px/34px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod2 .heading {
+  display: inline-flex;
+}
+
+.product_user .prod2 .heading .icon {
+  margin-top: 103px;
+  margin-left: 116px;
+  width: 62px;
+  height: 62px;
+  background: transparent url("../img/Group 11300.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.product_user .prod2 .heading .user {
+  margin-top: 103px;
+  margin-left: 9px;
+  width: 177px;
+  height: 71px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 58px/62px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod2 .p1 {
+  margin-top: 22px;
+  margin-left: 124px;
+  width: 225px;
+  height: 59px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 21px/34px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod3 .heading {
+  display: inline-flex;
+}
+
+.product_user .prod3 .heading .icon {
+  margin-top: 103px;
+  margin-left: 115px;
+  width: 62px;
+  height: 62px;
+  background: transparent url("../img/Group 13294.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.product_user .prod3 .heading .user {
+  margin-top: 103px;
+  margin-left: 9px;
+  width: 110px;
+  height: 71px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 58px/62px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod3 .p1 {
+  margin-top: 22px;
+  margin-left: 115px;
+  width: 225px;
+  height: 59px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 21px/34px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod4 .heading {
+  display: inline-flex;
+}
+
+.product_user .prod4 .heading .icon {
+  margin-top: 103px;
+  margin-left: 81px;
+  width: 62px;
+  height: 62px;
+  background: transparent url("../img/Group 11301.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.product_user .prod4 .heading .user {
+  margin-top: 103px;
+  margin-left: 9px;
+  width: 177px;
+  height: 71px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 58px/62px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.product_user .prod4 .p1 {
+  margin-top: 22px;
+  margin-left: 113px;
+  width: 214px;
+  height: 59px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 21px/34px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+/* ***************NFT Features**********************/
+.nft_features {
+  display: inline-flex;
+  margin-top: 72px;
+}
+
+.nft_features .icon {
+  margin-left: 373px;
+  width: 51px;
+  height: 46px;
+  /* UI Properties */
+  background: transparent url("../img/setting.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.nft_features .heading {
+  margin-left: 24px;
+  width: 619px;
+  height: 42px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.nft_features_list {
+  margin-top: 60px;
+  margin-left: 178px;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list {
+  /* display: inline-flex;
+} */
+
+/**************** LIST 1***************** */
+.nft_features_list .list .list1 {
+  margin-left: 26px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list1 .icon {
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.nft_features_list .list .list1 .content {
+  /* margin-left: 26px; */
+}
+
+.nft_features_list .list .list1 .content .heading {
+  margin-left: 26px;
+  width: 91px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.nft_features_list .list .list1 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 382px;
+  height: 21px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #090909;
+}
+
+/**************** LIST 2***************** */
+.nft_features_list .list .list2 {
+  margin-left: 26px;
+  margin-top: 20px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list2 .icon {
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list .list2 .content {
+  /* margin-left: 26px; 
+}  */
+
+.nft_features_list .list .list2 .content .heading {
+  margin-left: 26px;
+  width: 91px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  color: #fcd02c;
+  letter-spacing: 0.09px;
+}
+
+.nft_features_list .list .list2 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 382px;
+  height: 21px;
+
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #090909;
+}
+
+/**************** LIST 3 ***************** */
+.nft_features_list .list .list3 {
+  margin-left: 26px;
+  margin-top: 29px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list3 .icon {
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list .list2 .content {
+  /* margin-left: 26px; 
+}  */
+
+.nft_features_list .list .list3 .content .heading {
+  margin-left: 26px;
+  width: 170px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.nft_features_list .list .list3 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 382px;
+  height: 21px;
+
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #090909;
+}
+
+/**************** LIST 4 ***************** */
+.nft_features_list .list .list4 {
+  margin-left: 26px;
+  margin-top: 19px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list4 .icon {
+  margin-top: 20px;
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list .list2 .content {
+  /* margin-left: 26px; 
+}  */
+
+.nft_features_list .list .list4 .content .heading {
+  margin-left: 26px;
+  margin-top: 20px;
+  width: 170px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.nft_features_list .list .list4 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 436px;
+  height: 75px;
+  text-align: left;
+  letter-spacing: 0.09px;
+  color: #090909;
+  opacity: 1;
+}
+
+/**************** LIST 5 ***************** */
+.nft_features_list .list .list5 {
+  margin-left: 26px;
+  margin-top: 19px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list5 .icon {
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list .list2 .content {
+  /* margin-left: 26px; 
+}  */
+
+.nft_features_list .list .list5 .content .heading {
+  margin-left: 26px;
+  width: 178px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.nft_features_list .list .list5 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 436px;
+  height: 75px;
+  /* UI Properties */
+  text-align: left;
+  letter-spacing: 0.09px;
+  color: #090909;
+  opacity: 1;
+}
+
+/**************** LIST 6 ***************** */
+.nft_features_list .list .list6 {
+  margin-left: 26px;
+  margin-top: 19px;
+  display: inline-flex;
+}
+
+.nft_features_list .list .list6 .icon {
+  width: 42px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent url("../img/tick (1).png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+/* .nft_features_list .list .list2 .content {
+  /* margin-left: 26px; 
+}  */
+
+.nft_features_list .list .list6 .content .heading {
+  margin-left: 26px;
+  width: 178px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 18px/27px Gilroy ☞;
+  letter-spacing: 0.09px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.nft_features_list .list .list6 .content .detail {
+  margin-left: 26px;
+  margin-top: 4px;
+  width: 436px;
+  height: 75px;
+  /* UI Properties */
+  text-align: left;
+  letter-spacing: 0.09px;
+  color: #090909;
+  opacity: 1;
+}
+
+.nft_features_list .image {
+  padding-left: 175px;
+  width: 534px;
+  height: 437px;
+  /* UI Properties */
+  background: transparent url("../img/Group 135644.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.div_box {
+  margin-left: 166px;
+  margin-top: 51px;
+  width: 1108px;
+  height: 250px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13566.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.div_box .div_box1 {
+  padding-left: 80px;
+  padding-top: 69px;
+}
+
+.div_box .div_box1 .line1 {
+  width: 315px;
+  height: 43px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 30px/51px Poppins;
+  font-weight: bold;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.div_box .div_box1 .line2 {
+  width: 475px;
+  height: 51px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 19px/24px Poppins;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.div_box .div_box2 {
+  margin-top: 74px;
+  margin-left: 219px;
+  width: 265px;
+  height: 77px;
+  /* UI Properties */
+  background: #150734 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.div_box .div_box2 .action_name {
+  margin-left: 43.52px;
+  margin-top: 24px;
+  width: 131px;
+  height: 29px;
+  font: normal normal 600 24px/34px Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.div_box .div_box2 .icon {
+  margin-top: 24px;
+  margin-left: 9px;
+  width: 38px;
+  height: 31px;
+  /* UI Properties */
+  background: transparent url("../img/glyph.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+/* *****************NFT PROCESS****************** */
+
+.nft_process {
+  margin-top: 60px;
+  margin-left: 360px;
+  display: inline-flex;
+}
+
+.nft_process .icon {
+  width: 45px;
+  height: 45px;
+  /* UI Properties */
+  background: transparent url("../img/process (5).png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.nft_process .header {
+  width: 660px;
+  height: 44px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+/* *******************DEVLOPMENT PROCESS STEP ************** */
+.nft_process_step {
+  margin-top: 21px;
+  margin-left: 291px;
+  width: 858px;
+  height: 55px;
+  text-align: center;
+  font: normal normal medium 20px/30px Gilroy ☞;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* *******************DEVLOPMENT PROCESS STEP1 ************** */
+.nft_process_step1 {
+  margin-top: 44.24px;
+  margin-left: 294px;
+  width: 903px;
+  height: 117px;
+  border: 1px solid #fcd02c;
+  border-radius: 5px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_process_step1 .icon {
+  margin-top: 30px;
+  margin-left: -37px;
+  width: 73px;
+  height: 73px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13578.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.nft_process_step1 .content {
+  margin-top: 47px;
+  margin-left: 54px;
+  width: 476px;
+  height: 22px;
+  text-align: center;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+/* *******************DEVLOPMENT PROCESS STEP2 ************** */
+.nft_process_step2 {
+  margin-top: 26px;
+  margin-left: 294px;
+  width: 903px;
+  height: 117px;
+  /* UI Properties */
+  border: 1px solid #fcd02c;
+  border-radius: 5px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_process_step2 .icon {
+  margin-top: 30px;
+  margin-left: -37px;
+  width: 73px;
+  height: 73px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13579.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.nft_process_step2 .content {
+  margin-top: 31px;
+  margin-left: 54px;
+  width: 744px;
+  height: 55px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/30px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+/* *******************DEVLOPMENT PROCESS STEP3 ************** */
+.nft_process_step3 {
+  margin-top: 26px;
+  margin-left: 294px;
+  width: 903px;
+  height: 117px;
+  /* UI Properties */
+  border: 1px solid #fcd02c;
+  border-radius: 5px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_process_step3 .icon {
+  margin-top: 30px;
+  margin-left: -37px;
+  width: 73px;
+  height: 73px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13580.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.nft_process_step3 .content {
+  margin-top: 47.5px;
+  margin-left: 54px;
+  width: 519px;
+  height: 22px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+
+/* *******************DEVLOPMENT PROCESS STEP4 ************** */
+.nft_process_step4 {
+  margin-top: 26px;
+  margin-left: 294px;
+  width: 903px;
+  height: 117px;
+  /* UI Properties */
+  border: 1px solid #fcd02c;
+  border-radius: 5px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.nft_process_step4 .icon {
+  margin-top: 30px;
+  margin-left: -37px;
+  width: 73px;
+  height: 73px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13581.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.nft_process_step4 .content {
+  margin-top: 47.5px;
+  margin-left: 54px;
+  width: 476px;
+  height: 22px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0.2px;
+  color: #000000;
+  opacity: 1;
+}
+
+/********************** NFT SErvice ***************************/
+.nft_service {
+  margin-top: 95px;
+  margin-left: 295px;
+  display: inline-flex;
+}
+
+.nft_service .icon {
+  width: 51px;
+  height: 51px;
+  /* UI Properties */
+  background: transparent url("../img/digital-services.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.nft_service .header {
+  margin-left: 24px;
+  width: 775px;
+  height: 44px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.nft_services {
+  padding-left: 443px;
+  margin-top: 26px;
+  width: 554px;
+  height: 36px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal medium 20px/30px Gilroy ☞;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* ************PORTFOLIO *****************/
+.portfolio_heading {
+  margin-top: 52px;
+  margin-left: 600px;
+  display: inline-flex;
+}
+
+.portfolio_heading .logo {
+  width: 39px;
+  height: 39px;
+  /* UI Properties */
+  background: transparent url("../img/blueprint.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.portfolio_heading .heading_line {
+  margin-left: 24px;
+  width: 176px;
+  height: 35px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+/* DEVICE */
+
+.device {
+  margin-top: 50px;
+  margin-left: 560px;
+  display: inline-flex;
+}
+
+.device .web .part1 {
+  width: 94px;
+  height: 94px;
+  /* UI Properties */
+  background: transparent url("../img/Group 12297.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.device .web .part2 {
+  margin-top: 24px;
+  padding-left: 22px;
+  width: 50px;
+  height: 22px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 22px/27px Gilroy ☞;
+  letter-spacing: 0.22px;
+  color: #fcd02c;
+  opacity: 1;
+}
+
+.device .web .part3 {
+  margin-left: 39px;
+  margin-top: 24px;
+  width: 16px;
+  height: 16px;
+  /* UI Properties */
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+}
+
+.device .phone {
+  margin-left: 122px;
+}
+
+.device .phone .part1 {
+  width: 94px;
+  height: 94px;
+  background: transparent url("../img/Group 12298.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.device .phone .part2 {
+  margin-top: 22px;
+  margin-left: 20px;
+  width: 77px;
+  height: 22px;
+  text-align: left;
+  font: normal normal 600 22px/27px Gilroy ☞;
+  letter-spacing: 0.22px;
+  color: #000000;
+  opacity: 1;
+}
+
+.consultation {
+  margin-top: 71px;
+  width: 1440px;
+  height: 423px;
+  background: transparent url("../img/Group 13575.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.consultation .div1 {
+  padding-top: 122px;
+  margin-left: 364px;
+  width: 723px;
+  height: 38px;
+  text-align: left;
+  font: normal normal 600 25px/38px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.consultation .div2 {
+  margin-top: 18px;
+  margin-left: 423px;
+  width: 593px;
+  height: 28px;
+  text-align: center;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.consultation .con_div3 {
+  margin-top: 33px;
+  margin-left: 564px;
+  width: 311px;
+  height: 61px;
+  background: #150734 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.consultation .con_div3 .con_name {
+  margin-top: 19px;
+  margin-left: 34px;
+  width: 210px;
+  height: 23px;
+  text-align: left;
+  font: normal normal 600 17px/28px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.consultation .con_div3 .icon {
+  margin-top: 22px;
+  margin-left: 4px;
+  width: 24px;
+  height: 17px;
+  background: transparent url("../img/email (2).png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+/******************* DEVELOPEMENT PROCESS ******************** */
+.dev_pro {
+  margin-top: 52px;
+  margin-left: 280px;
+  display: inline-flex;
+}
+
+.dev_pro .dev_logo {
+  width: 44px;
+  height: 44px;
+  background: transparent url("../img/process (4).png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.dev_pro .dev_head {
+  margin-left: 14px;
+  width: 821px;
+  height: 44px;
+  text-align: center;
+  font: normal normal bold 28px/35px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.dev_guide {
+  margin-top: 18px;
+  margin-left: 384px;
+  width: 672px;
+  height: 87px;
+  text-align: center;
+  font: normal normal medium 20px/30px Gilroy ☞;
+  letter-spacing: 0.1px;
+  color: #707070;
+  opacity: 1;
+}
+
+.contact_us {
+  margin-top: 76px;
+  margin-left: 166px;
+  width: 1108px;
+  height: 316px;
+  background: transparent url("../img/Group 12818.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.contact_us .contact_content {
+  margin-top: 78px;
+  margin-left: 97px;
+}
+
+.contact_us .contact_content .line1 {
+  width: 541px;
+  height: 50px;
+  text-align: left;
+  font: normal normal medium 30px/45px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.contact_us .contact_content .line2 {
+  width: 575px;
+  height: 23px;
+  text-align: left;
+  font: normal normal medium 19px/30px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.contact_us .button {
+  margin-top: 100px;
+  margin-left: 120px;
+  width: 264px;
+  height: 77px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+  display: inline-flex;
+}
+.contact_us .button .content {
+  margin-top: 23px;
+  margin-left: 40px;
+  width: 129px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 25px/36px Gilroy;
+  letter-spacing: 0px;
+  color: #242525;
+  opacity: 1;
+}
+.contact_us .button .con_logo {
+  margin-top: 14px;
+  margin-left: 24px;
+  width: 31px;
+  height: 48px;
+  background: transparent url("../img/23-mail.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.que_head {
+  margin-top: 58px;
+  margin-left: 587px;
+  width: 320px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 25px/41px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.que_mid {
+  margin-top: 59px;
+  display: inline-flex;
+}
+
+.que_mid .left {
+  width: 504px;
+  height: 483px;
+  background: transparent url("../img/3568950.png") 0% 0% no-repeat padding-box;
+  border-radius: 14px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.que_mid .ri8 .row1 {
+  margin-left: 96px;
+  width: 686px;
+  height: 74px;
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.que_mid .ri8 .row1 .part1 {
+  padding-top: 25px;
+  margin-left: 35px;
+  width: 483px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 18px/23px Gilroy ☞;
+  letter-spacing: 0.18px;
+  color: #150734;
+  opacity: 1;
+}
+
+.que_mid .ri8 .row1 .part2 {
+  margin-top: 26px;
+  margin-left: 129px;
+  width: 22px;
+  height: 22px;
+  background: transparent url("../img/add.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.que_mid .ri8 .row2 {
+  margin-top: 16px;
+  margin-left: 96px;
+  width: 686px;
+  height: 74px;
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: flex;
+}
+
+.que_mid .ri8 .row2 .part1 {
+  padding-top: 25px;
+  margin-left: 35px;
+  width: 483px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 18px/23px Gilroy ☞;
+  letter-spacing: 0.18px;
+  color: #150734;
+  opacity: 1;
+}
+
+.que_mid .ri8 .row2 .part2 {
+  margin-left: 129px;
+  margin-top: 16px;
+  width: 22px;
+  height: 22px;
+  background: transparent url("../img/add.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.que_mid .ri8 .row3 {
+  margin-top: 16px;
+  margin-left: 96px;
+  width: 686px;
+  height: 74px;
+  background: #fcd02c 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: flex;
+}
+
+.que_mid .ri8 .row3 .part1 {
+  padding-top: 25px;
+  margin-left: 35px;
+  width: 483px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 18px/23px Gilroy ☞;
+  letter-spacing: 0.18px;
+  color: #150734;
+  opacity: 1;
+}
+
+.que_mid .ri8 .row3 .part2 {
+  margin-left: 129px;
+  margin-top: 16px;
+  width: 22px;
+  height: 22px;
+  background: transparent url("../img/add.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+/* ********************Experience ***********/
+.experience {
+  margin-top: 87px;
+  width: 1440px;
+  height: 396px;
+  background: transparent url("../img/Group 12969.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.experience .ex_part1 {
+  padding-top: 117px;
+  margin-left: 263px;
+  width: 913px;
+  height: 46px;
+  text-align: left;
+  font: normal normal bold 32px/40px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.experience .ex_part2 {
+  margin-left: 266px;
+  margin-top: 9px;
+  width: 908px;
+  height: 26px;
+  text-align: left;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #150734;
+  opacity: 1;
+}
+
+.experience .ex_part3 {
+  margin-top: 25px;
+  margin-left: 624px;
+  width: 208px;
+  height: 50px;
+  background: #150734 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 15px;
+  opacity: 1;
+  display: inline-flex;
+}
+
+.experience .ex_part3 .ex_con {
+  margin-top: 3px;
+  margin-left: 46px;
+  width: 82px;
+  height: 23px;
+  text-align: left;
+  font: normal normal 600 18px/44px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.experience .ex_part3 .ex_logo {
+  margin-top: 13px;
+  margin-left: 13px;
+  width: 22px;
+  height: 22px;
+  background: transparent url("../img/shuttle.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+/* **************Offered Service **************/
+.offer {
+  width: 1440px;
+  height: 902px;
+  background: #f7f8f7 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.offer .off_head {
+  padding-top: 63px;
+  margin-left: 581px;
+  display: inline-flex;
+}
+
+.offer .off_head .off_logo {
+  width: 45px;
+  height: 45px;
+  background: transparent url("../img/customer (1).png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.offer .off_head .off_line {
+  margin-left: 14px;
+  width: 198px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 25px/41px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.offer .off_para {
+  margin-top: 30px;
+  margin-left: 260px;
+  width: 920px;
+  height: 53px;
+  text-align: center;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 0.7;
+}
+
+/* *************contact and location  ***************/
+.contact_location {
+  width: 1440px;
+  height: 818px;
+  background: transparent url("../img/Group 13068.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.contact_location .con_form {
+  padding-top: 6px;
+  margin-left: 90px;
+  width: 686px;
+  height: 718px;
+  /* UI Properties */
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 11px;
+  opacity: 1;
+}
+
+.upper {
+  display: inline-flex;
+}
+.con_box {
+  padding-left: 29px;
+  padding-top: 42px;
+}
+
+.input_type {
+  padding-top: 36px;
+  width: 77px;
+  height: 20px;
+  text-align: center;
+  font: normal normal medium 17px/21px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #852f2f;
+  opacity: 1;
+}
+
+.name {
+  padding-top: 9px;
+  padding-left: 14px;
+  width: 313px;
+  height: 36px;
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+  opacity: 1;
+}
+.con_box2 {
+  padding-left: 9px;
+  padding-top: 42px;
+}
+
+.phone {
+  display: inline-flex;
+  margin-left: 10px;
+  width: 290px;
+  height: 36px;
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+  opacity: 1;
+}
+.ph_code {
+  width: 50px;
+  text-align: center;
+}
+
+.ph_no {
+  width: 240px;
+  text-align: center;
+}
+
+.middle {
+  display: inline-flex;
+}
+
+.requirement .req_head {
+  margin-top: 36px;
+  margin-left: 29px;
+  height: 20px;
+  text-align: left;
+  font: normal normal medium 17px/13px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #0f0d0d;
+  opacity: 1;
+  display: f;
+}
+
+.checkbox {
+  margin-top: 10px;
+  margin-left: 8px;
+  width: 23px;
+  height: 23px;
+  background: #0e52cf 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.browse {
+  margin-top: 122px;
+  margin-left: 29px;
+  width: 638px;
+  height: 63px;
+  border: 1px dashed #0f4dc2;
+  border-radius: 3px;
+  opacity: 1;
+  display: inline-flex;
+  align-items: center;
+}
+
+.bro_details {
+  margin-left: 122px;
+  width: 127px;
+  height: 18px;
+  text-align: center;
+  font: normal normal medium 15px/11px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #8a3636;
+  opacity: 0.42;
+}
+.bro_button {
+  width: 120px;
+  height: 30px;
+  background: #0c48b8 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  opacity: 1;
+}
+
+.desc {
+  margin-top: 29px;
+  margin-left: 29px;
+  width: 638px;
+  height: 158px;
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+  opacity: 1;
+}
+
+.form_sub {
+  margin-left: 29px;
+  margin-top: 10px;
+  width: 190px;
+  height: 36px;
+  background: #0f4dc2 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  opacity: 1;
+}
